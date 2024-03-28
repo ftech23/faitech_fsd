@@ -1,0 +1,1 @@
+Join us on a journey to mastering full stack development, where you'll learn everything you need to know to create dynamic web applications from start to finish. From front-end design to back-end development, our comprehensive curriculum covers the latest technologies and best practices in the industry.
